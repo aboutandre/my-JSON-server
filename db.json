@@ -1,4 +1,4 @@
-[
+{ "filters": [
     {
       "text": "Preisoptionen",
       "filterName": "priceOption",
@@ -22,3 +22,4 @@
       ]
     }
   ]
+}
