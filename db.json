@@ -1,0 +1,25 @@
+{ "filters": [
+    {
+      "text": "Preisoptionen",
+      "filterName": "priceOption",
+      "filterComponent": "SingleSelection",
+      "filterItems": [
+        { "text": "Alle", "value": "all" },
+        { "text": "Begleitperson", "value": "accompanyPerson" },
+        { "text": "Behinderung", "value": "handyCap" },
+        { "text": "Gruppe", "value": "group" },
+        { "text": "Einzelne", "value": "solo" }
+      ]
+    },
+    {
+      "text": "Aufenthaltsart",
+      "filterName": "kindOfStay",
+      "filterComponent": "SingleSelection",
+      "filterItems": [
+        { "text": "Alle", "value": "all" },
+        { "text": "Tagesgäste", "value": "diurnal" },
+        { "text": "Übernachtungsgäste", "value": "overnight" }
+      ]
+    }
+  ];
+}
